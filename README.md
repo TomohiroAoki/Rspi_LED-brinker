@@ -8,4 +8,4 @@
 https://youtu.be/xvMnvOgz5Hg
 
 ### ライセンス
-GPL3.0
+GPL
