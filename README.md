@@ -1,6 +1,6 @@
 # Rspi_LED-brinker
 
-### 使い方RaspberryPiのGPIO25とGNDにLEDと抵抗を取り付ける
+### 使い方RaspberryPi3B+のGPIO25とGNDにLEDと抵抗を取り付ける
 デバイスファイルに0,1,2の数字いずれかを入力する
 
 ### デモ
